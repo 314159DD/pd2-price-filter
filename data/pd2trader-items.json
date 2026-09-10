@@ -1,0 +1,17 @@
+[
+  { "name": "Gul Rune", "condition": "RUNE=25", "category": "rune" },
+  { "name": "Vex Rune", "condition": "RUNE=26", "category": "rune" },
+  { "name": "Ohm Rune", "condition": "RUNE=27", "category": "rune" },
+  { "name": "Lo Rune", "condition": "RUNE=28", "category": "rune" },
+  { "name": "Sur Rune", "condition": "RUNE=29", "category": "rune" },
+  { "name": "Ber Rune", "condition": "RUNE=30", "category": "rune" },
+  { "name": "Jah Rune", "condition": "RUNE=31", "category": "rune" },
+  { "name": "Cham Rune", "condition": "RUNE=32", "category": "rune" },
+  { "name": "Zod Rune", "condition": "RUNE=33", "category": "rune" },
+  { "name": "Key of Terror", "condition": "pk1", "category": "uber" },
+  { "name": "Key of Hate", "condition": "pk2", "category": "uber" },
+  { "name": "Key of Destruction", "condition": "pk3", "category": "uber" },
+  { "name": "Diablo's Horn", "condition": "dhn", "category": "uber" },
+  { "name": "Mephisto's Brain", "condition": "mbr", "category": "uber" },
+  { "name": "Baal's Eye", "condition": "bey", "category": "uber" }
+]
